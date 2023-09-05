@@ -1,6 +1,6 @@
 # [GitHub Stats Visualization](https://github.com/strongreasons/github-stats)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/564ddd84f19844bab3b16132397d5ec0)](https://app.codacy.com/gh/strongreasons/github-stats/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) [![Generate Stats Images](https://github.com/strongreasons/github-stats/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/strongreasons/github-stats/actions/workflows/main.yml)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/564ddd84f19844bab3b16132397d5ec0)](https://app.codacy.com/gh/strongreasons/github-stats/dashboard?utm_source=github.com&utm_medium=referral&utm_content=strongreasons/github-stats&utm_campaign=Badge_Grade_Settings) [![Generate Stats Images](https://github.com/strongreasons/github-stats/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/strongreasons/github-stats/actions/workflows/main.yml)
 
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
