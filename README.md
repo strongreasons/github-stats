@@ -1,5 +1,7 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6ceeca53c63e403281e26a431a5d9c3a)](https://app.codacy.com/gh/strongreasons/github-stats?utm_source=github.com&utm_medium=referral&utm_content=strongreasons/github-stats&utm_campaign=Badge_Grade)
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
